@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_crear_actividad.xml" value="0.26875" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_crear_anime.xml" value="0.26875" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_detalle.xml" value="0.26875" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_main.xml" value="0.2546875" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_mostrar_actividad.xml" value="0.26875" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_sicronizar_actividad.xml" value="0.26875" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/activity_ver_detalles.xml" value="0.25" />
+        <entry key="..\:/UPN -2022-1/VIDEOJUEGOS/ANDROIDJAVA/T4EXAMEN/app/src/main/res/layout/mini_layout.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
